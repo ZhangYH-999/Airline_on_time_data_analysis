@@ -123,7 +123,7 @@ Calculate monthly average delay.
 
 ##### 1. Dynamic Heatmap: Location distribution of the numbers of flight base on month
 
- [heatmap_with_time.html](README.assets\heatmap_with_time.html) 
+ [heatmap_with_time.html](./README.assets/heatmap_with_time.html) 
 
 ![image-20230310130511004](README.assets/image-20230310130511004.png)
 
